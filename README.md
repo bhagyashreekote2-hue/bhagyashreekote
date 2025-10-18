@@ -1,5 +1,6 @@
+
 # 💫 About Me:
-I am a Student
+I 'm currently pursuing Computer Science Engineering<br>
 
 
 ## 🌐 Socials:
@@ -15,3 +16,4 @@ I am a Student
 ---
 [![](https://visitcount.itsvg.in/api?id=Bhagyashree kote&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
